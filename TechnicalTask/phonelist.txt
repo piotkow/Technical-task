@@ -1,0 +1,13 @@
+Huawei cc smartphone 2000 4.44 400
+Huawei bb smartphone 2000 5 400
+Huawei aa smartphone 2000 6 400
+Huawei x3 smartphone 2000 2.5 400
+Huawei x4 smartphone 2000 2.5 400
+Huawei x6 smartphone 2000 2.6 400
+Huawei x7 smartphone 2000 2.6 400
+Huawei x8 smartphone 2000 2.6 400
+Huawei x9 smartphone 2000 1 400
+Huawei d3 smartphone 2000 1 400
+Huawei d2 smartphone 2000 1 400
+Huawei d1 smartphone 2000 1 400
+Huawei p9 smartphone 2000 1 400
